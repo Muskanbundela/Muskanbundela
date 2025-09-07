@@ -1,13 +1,38 @@
-- # 👋 Hi, I’m @Muskanbundela
+# 👋 Hey, I’m Muskan Raja Bundela  
 
-- 👀 I’m interested in web development, front-end technologies, and data structures and algorithms.
-- 🌱 I’m currently learning CSS, HTML, and JavaScript to enhance my web development skills.
-- 💞️ I’m looking to collaborate on web development projects and open-source initiatives.
-- 📫 How to reach me: You can contact me via [LinkedIn](https://www.linkedin.com/in/muskan-raja-bundela-7b363828b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or email me at muskanbundela06@gmail.com.
-- 😄 Pronouns: She/Her
-- - ⚡ Fun fact: I’m dedicated to coding every day and challenge myself with new projects to improve my skills continuously!
+🌟 **B.Tech CSE @ VIT University (2023-2027)**  
+💻 Exploring **Web Dev + DSA**  
+🌱 Currently learning **HTML | CSS | JavaScript**  
+🚀 Always ready to **collaborate on Web Dev & Open Source projects**  
 
-<!---
-Muskanbundela/Muskanbundela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👀 Interests
+- Front-end technologies  
+- Web development projects  
+- Data Structures & Algorithms  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python | C++ | JavaScript  
+- **Frontend:** HTML | CSS |JS framework
+- **Tools:** Git | GitHub | VS Code  
+
+---
+
+## ⚡ Fun Fact
+I’m dedicated to coding **every day** and love challenging myself with new projects to continuously improve my skills! ✨  
+
+---
+
+## 📊 GitHub Stats
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanbundela&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanbundela&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muskan-raja-bundela-7b363828b)  
+📩 **Email:** muskanbundela06@gmail.com  
+😄 **Pronouns:** She/Her  
